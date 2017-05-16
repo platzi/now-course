@@ -1,0 +1,26 @@
+{
+  "name": "platzi-now-api",
+  "alias": "platzi-now-api.now.sh",
+  "env": {
+    "NODE_ENV": "production",
+    "PORT": 3000,
+    "HOST": "0.0.0.0",
+    "DB_USER": "@platzi_now_db_user",
+    "DB_PASS": "@platzi_now_db_pass",
+    "DB_HOST": "@platzi_now_db_host",
+    "DB_NAME": "@platzi_now_db_name",
+    "DB_PORT": 5432
+  },
+  "files": [
+    "db.js",
+    "Dockerfile",
+    "now.json",
+    "package.json",
+    "pubsub.js",
+    "resolvers.js",
+    "schema.js",
+    "server.js",
+    "yarn.lock"
+  ],
+  "type": "docker"
+}

@@ -1,0 +1,7 @@
+{
+  "rules": [
+    { "pathname": "/graphql", "dest": "platzi-now-api.now.sh" },
+    { "pathname": "/subscriptions", "dest": "platzi-now-api.now.sh" },
+    { "dest": "platzi-now-bff.now.sh" }
+  ]
+}

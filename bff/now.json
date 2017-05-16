@@ -1,0 +1,10 @@
+{
+  "name": "platzi-now-bff",
+  "alias": "platzi-now-bff.now.sh",
+  "env": {
+    "NODE_ENV": "production",
+    "BACKEND_API_ENDPOINT": "https://platzi-now.now.sh/graphql",
+    "BACKEND_WS_ENDPOINT": "wss://platzi-now.now.sh/subscriptions"
+  },
+  "type": "npm"
+}

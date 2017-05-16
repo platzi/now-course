@@ -1,5 +1,5 @@
 # Curso de Deploy con Now.sh
-Este es el proyecto del curso de deploy con [now.sh(https://now.sh) de Platzi.
+Este es el proyecto del curso de deploy con [now.sh](https://now.sh) de Platzi.
 
 El proyecto esta dividido en 2 partes.
 
